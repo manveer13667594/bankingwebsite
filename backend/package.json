@@ -1,0 +1,25 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "A full-stack banking website built as a college project, featuring user authentication, account management, and transaction processing.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manveer13667594/bankingwebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/manveer13667594/bankingwebsite/issues"
+  },
+  "homepage": "https://github.com/manveer13667594/bankingwebsite#readme",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^5.2.1"
+  }
+}
